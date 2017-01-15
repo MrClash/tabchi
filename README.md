@@ -23,9 +23,8 @@ Enter your telegram Id in "Full Sudo ID" part
 Enjoy Your New Bot!
 ## Run
 Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for auto launch mode (put tabchi-id in ID part)
-
-## Help and more...
-Send `/start` to [@TabChiRobot](https://telegram.me/TabChiRobot) in telegram
+## Change Language To PERSIAN
+ * [SMikail](https://telegram.me/MikailVigeo)
 ## Developers
 
  * [BugFather (Amir_h)](https://telegram.me/BugFather)
